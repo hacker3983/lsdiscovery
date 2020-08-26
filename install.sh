@@ -6,6 +6,3 @@ apt-get install git
 echo cloning wordlists
 git clone https://github.com/hacker3983/wordlist.git
 echo "Installation complete"
-echo "copying files from lsdiscovery/wordlist into lsdiscovery"
-bash helper.sh
-python3 copy.py
