@@ -15,5 +15,5 @@
 **1.** ```bash update.sh```
 
 ## ls-discovery execution
-```python3 ls-discover.py```
+**1.**```python3 ls-discover.py```
 **you will get something like this when it runs**
