@@ -3,11 +3,11 @@ ls-discovery is a tool that bruteforces web and try to find hidden files.
 you can say it bruteforces webdirectories
 # installation
 git clone https://github.com/cyberinventor/ls-discovery.git
-\n
+<br>
 cd ls-discovery
-\n
+<br>
 bash install.sh
-\n
+\<br>
 after installation has been completed
-\n
+<br>
 python3 ls-discover.py
