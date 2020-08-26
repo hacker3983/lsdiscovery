@@ -9,4 +9,4 @@ echo "your terminal will be closes down in 10 seconds to apply the update or the
 echo "after your terminal closes open a next terminal and the update will be applied."
 sleep 10
 echo "closing terminal..."
-xterm -title "applying changes" -e mv checkterminal.py /usr/bin && cd /usr/bin/ && chmod +x checkterminal.py
+killall qterminal
