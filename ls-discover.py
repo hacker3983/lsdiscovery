@@ -6,7 +6,7 @@ from datetime import date
 
 os.system('g++ read.cpp -o putlines && ./putlines')
 os.system('clear')
-os.system('printf '\033]2;ls-recovery\a')
+os.system("printf '\033]2;ls-recovery\a'")
 class banner:
 	art =	"""
 \u001b[1030m
