@@ -6,7 +6,7 @@ you can say it bruteforces webdirectories
 <br>
  **2.** cd ls-discovery
 <br>
-**3. ** bash install.sh
+**3.** bash install.sh
 <br>
 # Instructions
 **after installation has been completed**
