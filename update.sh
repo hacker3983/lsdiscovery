@@ -1,4 +1,4 @@
-printf '\033]2;updating in progress\a
+printf '\033]2;updating in progress\a'
 cd ..
 rm -rR ls-discovery
 git clone https://github.com/cyberinventor/ls-discovery.git
