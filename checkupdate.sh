@@ -11,15 +11,4 @@ echo "after your terminal closes open a next terminal and the update will be app
 sleep 10
 echo "closing terminal..."
 echo "trying to close"
-killall qterminal
-echo "trying to close"
-killall gnome-terminal
-echo "trying to close"
-killall xterm
-echo "trying to close"
-killall uxterm
-echo "trying to close"
-killall "1699 votes"
-echo "trying to close"
-killall "guake"
-echo "if terminal does not close i will find a better way to do it."
+ps -p $$ -o ppid= | tee -a output.txt
