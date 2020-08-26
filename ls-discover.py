@@ -2,7 +2,6 @@ import requests
 import readline
 import os
 import random
-import cowsay
 from datetime import date
 
 os.system('g++ read.cpp -o putlines && ./putlines')
