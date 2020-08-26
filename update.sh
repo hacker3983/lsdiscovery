@@ -5,4 +5,5 @@ git clone https://github.com/cyberinventor/ls-discovery.git
 cd ls-discovery
 bash install.sh
 clear
-echo "update complete now copy and paste the text in green and press enter"
+echo "now copy and paste the text in green and press enter"
+python3 textingreen.py
