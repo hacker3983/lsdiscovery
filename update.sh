@@ -8,6 +8,7 @@ clear
 echo "update complete"
 echo "your terminal will be closes down in 10 seconds to apply the update or the changes that have been made."
 echo "after your terminal closes open a next terminal and the update will be applied."
+echo "if your terminal does not close please try closing it your self please report issues on github"
 sleep 10
 echo "closing terminal..."
 echo "closing"
