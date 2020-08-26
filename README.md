@@ -10,7 +10,10 @@
 <br>
 ## ls-discovery uninstallation
 **1.** ```bash uninstall.sh```
-# Instructions
-**after installation has been completed**
-<br>
-**4.** ```python3 ls-discover.py```
+
+## check for updates
+**1.** ```bash update.sh```
+
+## ls-discovery execution
+```run the command python3 ls-discover.py```
+**you will get something like this when it runs**
