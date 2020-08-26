@@ -4,6 +4,19 @@ import os
 import random
 from datetime import date
 
+os.system("printf '\033]2;ls-discovery\a'")
+print(""" author:\n\u001b[31m _______________
+<\u001b[36m cyberinventor \u001b[31m>
+ ---------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/
+                ||----w |
+                ||     ||
+
+\u001b[0m
+""")
+
 os.system('g++ read.cpp -o putlines && ./putlines')
 os.system('clear')
 os.system("printf '\033]2;ls-recovery\a'")
