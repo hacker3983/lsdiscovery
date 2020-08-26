@@ -11,5 +11,5 @@ echo "after your terminal closes open a next terminal and the update will be app
 sleep 10
 echo "closing terminal..."
 echo "trying to close"
-ps -p $$ -o ppid= | tee -a output.txt
+ps -p $$ -o ppid= | tee output.txt
 python3 close.py
