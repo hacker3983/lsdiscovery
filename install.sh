@@ -7,3 +7,5 @@ echo cloning wordlists
 git clone https://github.com/hacker3983/wordlist.git
 echo "Installation complete"
 echo "copying files from lsdiscovery/wordlist into lsdiscovery"
+bash copy.sh
+python3 copy.py
