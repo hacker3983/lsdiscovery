@@ -1,6 +1,6 @@
 # Screenshots
 <img src="https://www.mediafire.com/convkey/2245/cn3tuxpvydr4yuc6g.jpg" alt='screen1.png'>
-**start ls-discovery ** ```python3 ls-discover.py```
+## start ls-discovery  ```python3 ls-discover.py```
 ** enter a wordlist name: ** ```you can use the built in wordlists in ls-discovery look below to see the names of the built in wordlists.<br> and you can also download your own wordlist```
 **Built in wordlist names**
 ```
