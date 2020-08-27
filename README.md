@@ -5,7 +5,7 @@ start ls-discovery  python3 ls-discover.py
 <br> enter the name of the wordlist: /root/ls-discovery/wordlist/directory-list-1.0.txt <br>
 <h1> example2</h1>
 <br>
-<h1> in example two you need to move the wordlist into the ls-discovery folder <br></h1>
+<h1> in example two you need to move the wordlist you want to use into the ls-discovery folder <br></h1>
 ls
 <br>
 passwords.txt
