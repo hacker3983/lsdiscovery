@@ -4,7 +4,7 @@
 <img src="https://www.mediafire.com/convkey/2245/cn3tuxpvydr4yuc6g.jpg" alt='screen1.png'>
 start ls-discovery  python3 ls-discover.py
 <h1> example</h1>
-<br> enter the name of the wordlist: /root/ls-discovery/wordlist/directory-list-1.0.txt <br>
+<br> enter the wordlist name: /root/ls-discovery/wordlist/directory-list-1.0.txt <br>
 <h1> example2</h1>
 <br>
 <h1> in example two you need to move the wordlist you want to use into the ls-discovery folder <br></h1>
@@ -14,7 +14,7 @@ passwords.txt
 <br>
 mv /root/passwords.txt ls-discovery
 <br>
-enter the name of the wordlist: passwords.txt <br>
+enter the wordlist name: passwords.txt <br>
 
 <br>
 <p> you can use the built in wordlists in ls-discovery look below to see the names of the built in wordlists.<br> and you can also download your own wordlist</p>
