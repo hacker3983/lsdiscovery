@@ -1,4 +1,6 @@
-# Screenshots
+# Screenshots on how to use ls-discovery
+
+<b>how to start and use the wordlist in ls-discovery</b>
 <img src="https://www.mediafire.com/convkey/2245/cn3tuxpvydr4yuc6g.jpg" alt='screen1.png'>
 start ls-discovery  python3 ls-discover.py
 <h1> example</h1>
@@ -25,8 +27,15 @@ apache-user-enum-1.0.txt <br> apache-user-enum-2.0.txt <br> default-list-2.3-med
 # Notes
 <br>
 i recommend you guys move the wordlist you want to use in the ls-discovery folder
-
+<br><br>
+<b>entering the target url</b>
+in this screenshot you need to enter the url of target url with https://example.com or http://example.com
 <img src="https://www.mediafire.com/convkey/9d49/evpvmg7wu9jr0pf6g.jpg" alt='screen2.png'>
+<br><br>
+<b>
+start attacking
+</b>
+after you press enter your attack will start after the attack is finished you will be able to see the results. just open the results.txt file in a editor and you will see the results
 <img src="https://www.mediafire.com/convkey/a208/ten0z81k7r87lrb6g.jpg" alt='screen3.png'>
 # About ls-discovery
 ls-discovery is a tool that bruteforces web and try to find hidden files. <br> you can say it bruteforces webdirectories```
