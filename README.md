@@ -17,9 +17,11 @@ enter the name of the wordlist: passwords.txt <br>
 <br>
 <p> you can use the built in wordlists in ls-discovery look below to see the names of the built in wordlists.<br> and you can also download your own wordlist</p>
 <br>
-<h1> Built in wordlist names
+<h1> Built in wordlist names</h1>
+<p>
 apache-user-enum-1.0.txt <br> apache-user-enum-2.0.txt <br> default-list-2.3-medium.txt <br> directories.jbrofuzz<br> directory-list-1.0.txt<br> directory-list-2.3-small.txt <br> directory-list-lowercase-2.3-medium.txt <br> directory-list-lowercase-2.3-small.txt```
-</h1>
+</p>
+
 # Notes
 <br>
 i recommend you guys move the wordlist you want to use in the ls-discovery folder
