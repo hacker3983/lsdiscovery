@@ -1,9 +1,28 @@
 # Screenshots
 <img src="https://www.mediafire.com/convkey/2245/cn3tuxpvydr4yuc6g.jpg" alt='screen1.png'>
-start ls-discovery  ```python3 ls-discover.py```
-enter a wordlist name: you can use the built in wordlists in ls-discovery look below to see the names of the built in wordlists.<br> and you can also download your own wordlist
-Built in wordlist names
+start ls-discovery  python3 ls-discover.py
+# example
+<br> enter the name of the wordlist: /root/ls-discovery/wordlist/directory-list-1.0.txt <br>
+# example2
+<br>
+# in example two you need to move the wordlist into the ls-discovery folder <br>
+ls
+<br>
+passwords.txt
+<br>
+mv /root/passwords.txt ls-discovery
+<br>
+enter the name of the wordlist: passwords.txt <br>
+
+<br>
+# you can use the built in wordlists in ls-discovery look below to see the names of the built in wordlists.<br> and you can also download your own wordlist
+<br>
+# Built in wordlist names
 ```apache-user-enum-1.0.txt <br> apache-user-enum-2.0.txt <br> default-list-2.3-medium.txt <br> directories.jbrofuzz<br> directory-list-1.0.txt<br> directory-list-2.3-small.txt <br> directory-list-lowercase-2.3-medium.txt <br> directory-list-lowercase-2.3-small.txt```
+
+# Notes
+<br>
+i recommend you guys move the wordlist you want to use in the ls-discovery folder
 
 <img src="https://www.mediafire.com/convkey/9d49/evpvmg7wu9jr0pf6g.jpg" alt='screen2.png'>
 <img src="https://www.mediafire.com/convkey/a208/ten0z81k7r87lrb6g.jpg" alt='screen3.png'>
