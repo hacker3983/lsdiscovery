@@ -22,4 +22,4 @@
 # Operating Systems tested on
 ```1.kali linux <br>2.wsl```
 ## Warning
-**this tool cannot work on windows subsystem for linux (wsl) as yet we have tested it.<br>but we are working on a version that can work on wsl **
+**this tool cannot work on windows subsystem for linux (wsl) as yet we have tested it.**<br>**but we are working on a version that can work on wsl**
