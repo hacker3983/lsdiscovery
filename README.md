@@ -1,11 +1,11 @@
 # Screenshots
 <img src="https://www.mediafire.com/convkey/2245/cn3tuxpvydr4yuc6g.jpg" alt='screen1.png'>
 start ls-discovery  python3 ls-discover.py
-# example
+<h1> example</h1>
 <br> enter the name of the wordlist: /root/ls-discovery/wordlist/directory-list-1.0.txt <br>
-# example2
+<h1> example2</h1>
 <br>
-# in example two you need to move the wordlist into the ls-discovery folder <br>
+<h1> in example two you need to move the wordlist into the ls-discovery folder <br></h1>
 ls
 <br>
 passwords.txt
@@ -15,11 +15,11 @@ mv /root/passwords.txt ls-discovery
 enter the name of the wordlist: passwords.txt <br>
 
 <br>
-# you can use the built in wordlists in ls-discovery look below to see the names of the built in wordlists.<br> and you can also download your own wordlist
+<h1> you can use the built in wordlists in ls-discovery look below to see the names of the built in wordlists.<br> and you can also download your own wordlist</h1>
 <br>
-# Built in wordlist names
-```apache-user-enum-1.0.txt <br> apache-user-enum-2.0.txt <br> default-list-2.3-medium.txt <br> directories.jbrofuzz<br> directory-list-1.0.txt<br> directory-list-2.3-small.txt <br> directory-list-lowercase-2.3-medium.txt <br> directory-list-lowercase-2.3-small.txt```
-
+<h1> Built in wordlist names
+apache-user-enum-1.0.txt <br> apache-user-enum-2.0.txt <br> default-list-2.3-medium.txt <br> directories.jbrofuzz<br> directory-list-1.0.txt<br> directory-list-2.3-small.txt <br> directory-list-lowercase-2.3-medium.txt <br> directory-list-lowercase-2.3-small.txt```
+</h1>
 # Notes
 <br>
 i recommend you guys move the wordlist you want to use in the ls-discovery folder
