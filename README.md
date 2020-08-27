@@ -18,7 +18,7 @@ ls-discovery is a tool that bruteforces web and try to find hidden files. <br> y
 **1.**```python3 ls-discover.py```
 **you will get something like this when it runs**
 # Operating Systems tested on
-```1.kali linux <br>2.wsl```
+```1.kali linux <br> 2.wsl```
 ## Warning
 **this tool cannot work on windows subsystem for linux (wsl) as yet we have tested it.**<br>**but we are working on a version that can work on wsl**
 # Screenshots on how to use ls-discovery
