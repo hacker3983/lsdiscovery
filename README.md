@@ -1,5 +1,7 @@
-## Screenshots
-
+# Screenshots
+<img src="https://www.mediafire.com/convkey/2245/cn3tuxpvydr4yuc6g.jpg" alt='screen1.png'>
+<img src="https://www.mediafire.com/convkey/9d49/evpvmg7wu9jr0pf6g.jpg" alt='screen2.png'>
+<img src="https://www.mediafire.com/convkey/a208/ten0z81k7r87lrb6g.jpg" alt='screen3.png'>
 # About ls-discovery
 ```ls-discovery is a tool that bruteforces web and try to find hidden files. <br> you can say it bruteforces webdirectories```
 # Getting started
