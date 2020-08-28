@@ -55,7 +55,7 @@ in this screenshot you need to enter the url of target url with https://example.
 <img src="https://www.mediafire.com/convkey/9d49/evpvmg7wu9jr0pf6g.jpg" alt='screen2.png'>
 <br><br>
 <h1>start attacking</h1><br>
-after you press enter your attack will start after the attack is finished you will be able to see the results. just open the results.txt file in a editor and you will see the results
+after you press enter your attack will start while the attack is running you will be able to see the results. just open the results.txt file in a editor and you will see the results you can also open new terminal an type cd ls-discovery and press enter then type nano results.txt and press enter you will see the results.txt
 <img src="https://www.mediafire.com/convkey/a208/ten0z81k7r87lrb6g.jpg" alt='screen3.png'>
 if you see < Response [200] > it means ls-discovery found a file or directory
 if you see < Response [404] > it means ls-discovery did not find that file or directory
