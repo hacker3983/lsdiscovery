@@ -46,7 +46,7 @@ enter the wordlist name: passwords.txt <br>
 <p>
 apache-user-enum-1.0.txt <br> apache-user-enum-2.0.txt <br> default-list-2.3-medium.txt <br> directories.jbrofuzz<br> directory-list-1.0.txt<br> directory-list-2.3-small.txt <br> directory-list-lowercase-2.3-medium.txt <br> directory-list-lowercase-2.3-small.txt```
 </p>
-# Notes
+## Notes
 <br>
 i recommend you guys move the wordlist you want to use in the ls-discovery folder
 <br><br>
