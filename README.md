@@ -1,5 +1,5 @@
 # About ls-discovery
-ls-discovery is a tool that bruteforces web and try to find hidden files. <br> you can say it bruteforces webdirectories
+ls-discovery is a tool that bruteforces a websit and try's to find hidden files. <br>
 # Getting started
 ## Installation
 **1.** ```git clone https://github.com/cyberinventor/ls-discovery.git```
