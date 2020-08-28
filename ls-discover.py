@@ -32,12 +32,12 @@ class banner:
 \n\n\n\n
 	"""
 	art2 = """\u001b[31m
- _______________
+\u001b[31m _______________
 <\u001b[36m cyberinventor \u001b[31m>
  ---------------
         \   ^__^
          \  (oo)\_______
-            (__)\       )\/\
+            (__)\       )\/
                 ||----w |
                 ||     ||
 
@@ -62,8 +62,18 @@ if date.today().weekday() == 1:
 
 if date.today().weekday() == 2:
 	print(banner.art3)
-else:
-	print(random.choice(banner.art))
+
+if date.today().weekday() == 3:
+	print(banner.art)
+
+if date.today().weekday() == 4:
+	print(banner.art2)
+
+if date.today().weekday() == 5:
+	print(banner.art3)
+
+if date.today().weekday() == 6:
+	print(banner.art)
 
 url = input('\u001b[34menter the url to discover directories on: ')
 words = open('getword.txt')
