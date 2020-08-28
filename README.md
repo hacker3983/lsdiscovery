@@ -24,15 +24,6 @@ ls-discovery is a tool that bruteforces a websit and try's to find hidden files.
 **this tool cannot work on windows subsystem for linux (wsl) as yet we have tested it.**<br>**but we are working on a version that can work on wsl**
 # Screenshots on how to use ls-discovery
 <br><br>
-<head>
-  <style>
-    body {
-      background-color: black;
-      color: yellow;
-    }
-  </style>
-</head>
-<body>
 <h1>how to start and use the wordlist in ls-discovery</h1>
 <img src="https://www.mediafire.com/convkey/2245/cn3tuxpvydr4yuc6g.jpg" alt='screen1.png'>
 start ls-discovery  python3 ls-discover.py
@@ -55,7 +46,6 @@ enter the wordlist name: passwords.txt <br>
 <p>
 apache-user-enum-1.0.txt <br> apache-user-enum-2.0.txt <br> default-list-2.3-medium.txt <br> directories.jbrofuzz<br> directory-list-1.0.txt<br> directory-list-2.3-small.txt <br> directory-list-lowercase-2.3-medium.txt <br> directory-list-lowercase-2.3-small.txt```
 </p>
-</body>
 # Notes
 <br>
 i recommend you guys move the wordlist you want to use in the ls-discovery folder
