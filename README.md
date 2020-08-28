@@ -1,3 +1,4 @@
+<body>
 # About ls-discovery
 ls-discovery is a tool that bruteforces a websit and try's to find hidden files. <br>
 # Getting started
@@ -66,18 +67,28 @@ if you see <Response [404]> it means ls-discovery did not find that file or dire
 <h1>httpmessages</h1>
 you can see the response codes or http messages on https://www.w3schools.com/tags/ref_httpmessages.asp
 <br>
-if you see one of the number below in ls-discovery you can visit the link below or above to understand but if you guys are smart you guys know about html you don't need to go to link
+http messages or response codes you may see
 <br>
-200
-400
-401
-403
-404
-405
-500
-501
-502
-503
-504
+200 - Ok
+<br>
+400 - Bad Request
+<br>
+401 - Unauthorized
+<br>
+403 - Forbidden
+<br>
+404 - not found
+<br>
+405 - Method Not Allowed
+<br>
+500 - Internal Server Error
+<br>
+501 - Not Implemented
+<br>
+502 - Bad Gateway
+<br>
+503 - Service Unavailable
+<br>
+504 - Gateway Timeout
 <br>
 if you want to understand those numbers above visit the link https://www.w3schools.com/tags/ref_httpmessages.asp
