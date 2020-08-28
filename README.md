@@ -63,7 +63,6 @@ if you see <Response [200]> it means ls-discovery found a file or directory
 if you see <Response [404]> it means ls-discovery did not find that file or directory>
 <br><br>
 <h1>To Make It Easier for you guys read the instructions below</h1>
-```
 <h1>httpmessages</h1>
 you can see the response codes or http messages on https://www.w3schools.com/tags/ref_httpmessages.asp
 <br>
