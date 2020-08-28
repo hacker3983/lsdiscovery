@@ -63,8 +63,8 @@ if you see <Response [404]> it means ls-discovery did not find that file or dire
 <h1>To Make It Easier for you guys read the instructions below</h1>
 <h1>httpmessages</h1>
 you can see the response codes or http messages on https://www.w3schools.com/tags/ref_httpmessages.asp
-<br>
-http messages or response codes you may see
+<br><br>
+<h1>http messages or response codes you may see</h1>
 <br>
 200 - Ok
 <br>
