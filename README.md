@@ -59,3 +59,23 @@ in this screenshot you need to enter the url of target url with https://example.
 <h1>start attacking</h1><br>
 after you press enter your attack will start after the attack is finished you will be able to see the results. just open the results.txt file in a editor and you will see the results
 <img src="https://www.mediafire.com/convkey/a208/ten0z81k7r87lrb6g.jpg" alt='screen3.png'>
+if you see <Response [200]> it means ls-discovery found a file or directory
+if you see <Response [404]> it means ls-discovery did not find that file or directory>
+<br><br>
+<h1>To Make It Easier for you guys read the instructions below</h1>
+```
+<h1>httpmessages</h1>
+you can see the response codes or http messages on https://www.w3schools.com/tags/ref_httpmessages.asp
+200
+400
+401
+403
+404
+405
+500
+501
+502
+503
+504
+```
+if you want to understand those numbers above visit the link https://www.w3schools.com/tags/ref_httpmessages.asp
