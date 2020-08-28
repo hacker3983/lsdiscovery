@@ -89,3 +89,5 @@ you can see the response codes or http messages on https://www.w3schools.com/tag
 504 - Gateway Timeout
 <br>
 if you want to understand those numbers above visit the link https://www.w3schools.com/tags/ref_httpmessages.asp
+<br><br>
+<h1>Please Report Any Issues Are What You Want Me to Implement.</h1>
